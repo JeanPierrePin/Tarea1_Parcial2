@@ -1,0 +1,103 @@
+<xml  tipo="estudiantes">
+    <estudiante id="1">
+        <cedula>1311452573 </cedula>
+        <nombre> Juan Parrales</nombre>
+        <direccion> Manta</direccion>
+        <telefono> 0956865565</telefono>
+        <correo>  juanp@gmail.com</correo>
+        <curso> Séptimo</curso>
+        <paralelo> A</paralelo>
+    </estudiante>
+
+    <estudiante id="2">
+        <cedula> 1315623522</cedula>
+        <nombre> Jean Pin</nombre>
+        <direccion> Montecristi</direccion>
+        <telefono> 0996464442</telefono>
+        <correo>  jeanpin@gmail.com</correo>
+        <curso> Séptimo</curso>
+        <paralelo> A</paralelo>
+    </estudiante>
+
+    <estudiante id="3">
+        <cedula>1315448758 </cedula>
+        <nombre> Paola Cortes</nombre>
+        <direccion> Morelia</direccion>
+        <telefono> 0996464554</telefono>
+        <correo>  paolac@gmail.com</correo>
+        <curso> Séptimo</curso>
+        <paralelo>B </paralelo>
+    </estudiante>
+
+    <estudiante id="4">
+        <cedula>1315532563 </cedula>
+        <nombre> Rafael Cuzme </nombre>
+        <direccion> Montecristi</direccion>
+        <telefono>0965865656 </telefono>
+        <correo>  rafaelc@gmail.com</correo>
+        <curso> Séptimo</curso>
+        <paralelo> B</paralelo>
+    </estudiante>
+
+    <estudiante id="5">
+        <cedula>1314568567 </cedula>
+        <nombre> Enrique Pin</nombre>
+        <direccion>Manta </direccion>
+        <telefono> 0965655682</telefono>
+        <correo>  enriquep@gmail.com</correo>
+        <curso> Séptimo</curso>
+        <paralelo> C</paralelo>
+    </estudiante>
+
+    <estudiante id="6">
+        <cedula> 1315632585</cedula>
+        <nombre> Fabian Parrales</nombre>
+        <direccion> Manta</direccion>
+        <telefono> 0998653265</telefono>
+        <correo> fabianp@gmail.com </correo>
+        <curso> Séptimo</curso>
+        <paralelo>C </paralelo>
+    </estudiante>
+
+    <estudiante id="7">
+        <cedula> 1315648586</cedula>
+        <nombre>Pierre Cheng </nombre>
+        <direccion> Manta</direccion>
+        <telefono> 0989655632</telefono>
+        <correo> pierrec@gmail.com </correo>
+        <curso> Séptimo</curso>
+        <paralelo>C </paralelo>
+    </estudiante>
+
+    <estudiante id="8"> 
+        <cedula>1315678546 </cedula>
+        <nombre>Steven Zambrano </nombre>
+        <direccion>Quito </direccion>
+        <telefono> 0989659865</telefono>
+        <correo>stevenz@gmail.com  </correo>
+        <curso>Séptimo </curso>
+        <paralelo> B</paralelo>
+    </estudiante>
+
+    <estudiante id="9">
+        <cedula> 1314568965</cedula>
+        <nombre> Jean Anchundia</nombre>
+        <direccion>Montecristi </direccion>
+        <telefono>0998653265 </telefono>
+        <correo> jeana@gmail.com </correo>
+        <curso> Séptimo</curso>
+        <paralelo>B </paralelo>
+    </estudiante>
+
+    <estudiante id="10">
+        <cedula>1316458556 </cedula>
+        <nombre>Luis Torres </nombre>
+        <direccion> Manta</direccion>
+        <telefono> 0989655621</telefono>
+        <correo> luist@gmail.com  </correo>
+        <curso> Séptimo</curso>
+        <paralelo>A </paralelo>
+    </estudiante>
+    
+        
+</xml>
